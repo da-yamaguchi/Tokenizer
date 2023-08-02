@@ -2,7 +2,10 @@
   "profiles": {
     "Tokenizer": {
       "commandName": "Project",
-      "commandLineArgs": "\"gpt-3.5-turbo\" \"This is a Game\""
-    }
+      "commandLineArgs": "\"gpt-3.5-turbo\" \"This is a Game\"",
+      //"Endpoint": "Program.csに直接記載",
+      //"Key": "Program.csに直接記載",
+      //"ModelName": "Program.csに直接記載"
+      }
   }
 }
